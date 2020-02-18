@@ -1,4 +1,4 @@
-# Sis: Simple Image Search Engine
+# Image Search Engine
 
 ## [Demo](http://www.simple-image-search.xyz/)
 ![](http://yusukematsui.me/project/sis/img/screencapture2.jpg)
